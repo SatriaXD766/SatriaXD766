@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25,30&height=280&section=header&text=Satria%20Bagas%20Sejati&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Si%20Anak%20Informatika%20%7C%20C%2B%2B%20x%20Networking%20%7C%20552012610009&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25,30&height=270&section=header&text=Satria%20Bagas%20Sejati&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Si%20Anak%20Informatika%20%7C%20C%2B%2B%20x%20Networking%20%7C%20552012610009&descAlignY=55&descSize=16" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=2500&pause=500&color=00F5FF&background=0A0A2300&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Satria+Bagas+Sejati+%7C+Si+Anak+Dual+Role+%F0%9F%92%BB;C%2B%2B+for+Logic+%2C+Cisco+for+Connection+%F0%9F%8C%90;Ngoding+Dulu%2C+Networking+Kemudian+%F0%9F%9A%80;552012610009+%7C+Anti+RTO+Club+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=2500&pause=500&color=00F5FF&background=0A0A2300&center=true&vCenter=true&multiline=true&width=800&height=130&lines=Satria+Bagas+Sejati+%7C+Si+Anak+Dual+Role+%F0%9F%92%BB;C%2B%2B+for+Logic+%2C+Cisco+for+Connection+%F0%9F%8C%90;Ngoding+Dulu%2C+Networking+Kemudian+%F0%9F%9A%80;552012610009+%7C+Anti+RTO+Club+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
