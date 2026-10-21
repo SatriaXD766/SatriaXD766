@@ -56,8 +56,12 @@ Cek semua repo ku di bawah profil yaa! 👇
 
 **Terima kasih sudah mampir ke profilku!**
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25,30&height=180&section=footer&text=Let's%20Connect%20%26%20Grow!&fontSize=26&fontColor=fff&fontAlignY=75&descAlignY=90)
+<div align="center">
 
-![Visitor](https://komarev.com/ghpvc/?username=SatriaXD766&label=Profile+Views&color=00FFAB&style=flat)
+**Terima kasih sudah mampir ke profilku! 🙏**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25,30&height=180&section=footer&text=Satria%20Bagas%20Sejati&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=70&desc=552012610009%20%7C%20C%2B%2B%20x%20Networking&descAlignY=85&descSize=14" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=SatriaXD766&label=Profile+Views&color=00FFAB&style=flat)
 
 </div>
