@@ -18,4 +18,35 @@ const satria = {
   focus: ["C++ Enthusiast", "Si Anak Networking"],
   motto: "Logic with C++, Connected with Cisco. Clean code selangkah demi selangkah.",
   currentStatus: "Semester 1 - Building Portofolio & Slay The Network 🔥"
-}
+}Mahasiswa Informatika yang belajar ngebangun clean code selangkah demi selangkah. Fokus di Struktur Data & Algoritma (C++) dan lagi mendalami dunia Networking (Cisco Packet Tracer). Karena repo gw ada C++ nya juga ada Cisco nya, jadi gw slay di dua dunia!
+🛠️ Tech Stack - Senjata Tempur
+<div align="center">
+
+💻 Software & Logic
+C++
+C
+Git
+GitHub
+🌐 Networking & Infra
+Cisco
+Packet Tracer
+Networking
+</div>
+
+📂 My Lab - Repo AndalanRepoDeskripsiVibeProject-C++Kumpulan logika, Strukdat, Algoritma. Clean code journey.C++ for Logic 💻Project-CiscoSimulasi Hybrid Topology 3 Segmen SBS-Net + dokumentasi anti RTO.Cisco for Connection 🌐cpp-slay-algorithmsComing Soon - Strukdat versi Gen Z, komen kocak + visual.Slay The Algorithm 🔥📊 GitHub Stats - Biar Ijo Semua
+<div align="center">
+
+Satria's GitHub stats
+Top Langs
+</div>
+
+<div align="center">
+
+Let's Connect & Build Something Slayy!
+Instagram
+LinkedIn
+Email
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25,30&height=200&section=footer&text=Thanks%20For%20Visiting%20My%20Lab!&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=70&desc=C%2B%2B%20for%20Logic%20%7C%20Cisco%20for%20Connection%20%7C%20Sheesh!&descAlignY=85&descSize=16" />
+
+Visitor
+</div>
