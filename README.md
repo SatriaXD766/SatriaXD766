@@ -1,52 +1,63 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25,30&height=300&section=header&text=Satria%20Bagas%20Sejati&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Si%20Anak%20Informatika%20x%20Networking%20%7C%20552012610009&descAlignY=58&descSize=17" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25,30&height=280&section=header&text=Satria%20Bagas%20Sejati&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Mahasiswa%20Informatika%20%7C%20C%2B%2B%20x%20Networking&descAlignY=55&descSize=16" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2500&pause=500&color=00FFAB&background=0A0A2300&center=true&vCenter=true&multiline=true&width=900&height=130&lines=Mahasiswa+Informatika+%7C+C%2B%2B+%26+Networking+Enthusiast+%F0%9F%8C%90;Building+clean+code+%26+anti-RTO+topology+step+by+step+%F0%9F%92%BB;C%2B%2B+for+Logic+%2C+Cisco+for+Connection+%F0%9F%94%A5;No+cap%2C+slay+both+worlds+fr+fr+!+Sheesh!)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=00FFAB&center=true&vCenter=true&width=600&height=50&lines=Hi%2C+I'm+Satria+%F0%9F%91%8B;Mahasiswa+Informatika+%7C+552012610009;C%2B%2B+for+Logic+%2C+Cisco+for+Connection)
 
 </div>
 
 ---
 
-### 👨‍💻 About Me - Si Anak Dual Role
+### 👋 Tentang Aku
 
-```javascript
-const satria = {
-  nama: "Satria Bagas Sejati",
-  nim: "552012610009",
-  role: "Mahasiswa Teknik Informatika",
-  focus: ["C++ Enthusiast", "Si Anak Networking"],
-  motto: "Logic with C++, Connected with Cisco. Clean code selangkah demi selangkah.",
-  currentStatus: "Semester 1 - Building Portofolio & Slay The Network 🔥"
-}Mahasiswa Informatika yang belajar ngebangun clean code selangkah demi selangkah. Fokus di Struktur Data & Algoritma (C++) dan lagi mendalami dunia Networking (Cisco Packet Tracer). Karena repo gw ada C++ nya juga ada Cisco nya, jadi gw slay di dua dunia!
-🛠️ Tech Stack - Senjata Tempur
+Halo! Aku **Satria Bagas Sejati (552012610009)** - Mahasiswa Teknik Informatika.
+
+Aku lagi fokus belajar membangun **clean code selangkah demi selangkah** di dunia C++ (Struktur Data & Algoritma) dan juga mendalami dunia Networking lewat Cisco Packet Tracer.
+
+> Karena repository ku ada C++ nya dan ada Cisco nya juga, jadi aku belajar di dua dunia sekaligus. Logic & Connection! 🔥
+
+**🎯 Saat ini lagi:**
+- 📚 Semester 1 - Fokus Struktur Data & Algoritma
+- 🌐 Belajar bikin Topologi Hybrid anti RTO
+- 💻 Konsisten push code tiap hari
+
+### 🛠️ Keahlian
+
+**Bahasa & Tools:**
+`C++` `C` `Git` `GitHub` `Cisco Packet Tracer` `Networking (LAN/WAN)`
+
+**Yang lagi aku pelajari:**
+- Struktur Data & Algoritma
+- Konfigurasi Router, Switch, VLAN
+- Hybrid Network (Wired + Wireless + Cloud)
+
+### 📂 Project Ku
+
+| Project | Deskripsi |
+| :--- | :--- |
+| **Project C++** | Kumpulan tugas & latihan logika C++ |
+| **Project Cisco** | Simulasi Topologi Hybrid 3 Segmen SBS-Net |
+| **Repo ini** | Profil utama, tempat nampilin semua karya |
+
+Cek semua repo ku di bawah profil yaa! 👇
+
+### 📈 Statistik GitHub
+
 <div align="center">
 
-💻 Software & Logic
-C++
-C
-Git
-GitHub
-🌐 Networking & Infra
-Cisco
-Packet Tracer
-Networking
+![Satria's GitHub stats](https://github-readme-stats.vercel.app/api?username=SatriaXD766&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A23&title_color=00FFAB&icon_color=00FFAB)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatriaXD766&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A23&title_color=00FFAB)
+
 </div>
 
-📂 My Lab - Repo AndalanRepoDeskripsiVibeProject-C++Kumpulan logika, Strukdat, Algoritma. Clean code journey.C++ for Logic 💻Project-CiscoSimulasi Hybrid Topology 3 Segmen SBS-Net + dokumentasi anti RTO.Cisco for Connection 🌐cpp-slay-algorithmsComing Soon - Strukdat versi Gen Z, komen kocak + visual.Slay The Algorithm 🔥📊 GitHub Stats - Biar Ijo Semua
-<div align="center">
-
-Satria's GitHub stats
-Top Langs
-</div>
+---
 
 <div align="center">
 
-Let's Connect & Build Something Slayy!
-Instagram
-LinkedIn
-Email
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25,30&height=200&section=footer&text=Thanks%20For%20Visiting%20My%20Lab!&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=70&desc=C%2B%2B%20for%20Logic%20%7C%20Cisco%20for%20Connection%20%7C%20Sheesh!&descAlignY=85&descSize=16" />
+**Terima kasih sudah mampir ke profilku!**
 
-Visitor
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25,30&height=180&section=footer&text=Let's%20Connect%20%26%20Grow!&fontSize=26&fontColor=fff&fontAlignY=75&descAlignY=90)
+
+![Visitor](https://komarev.com/ghpvc/?username=SatriaXD766&label=Profile+Views&color=00FFAB&style=flat)
+
 </div>
