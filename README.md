@@ -58,7 +58,7 @@ Aku lagi fokus belajar membangun **clean code selangkah demi selangkah** di duni
 | Project | Deskripsi |
 | :--- | :--- |
 | **Project C++** | Kumpulan tugas & latihan logika C++ - [Lihat Repo](https://github.com/SatriaXD766/Project-Pemograman-Semester-1) |
-| **Project Cisco** | Simulasi Topologi Hybrid 3 Segmen SBS-Net |
+| **Project Cisco** | Simulasi Topologi Cisco Packet Tracert - [Lihat Repo](https://github.com/SatriaXD766/Project-Cisco-Semester-1) |
 | **Repo ini** | Profil utama, tempat nampilin semua karya |
 
 Cek semua repo ku di bawah profil yaa! 👇
