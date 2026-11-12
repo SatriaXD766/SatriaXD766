@@ -69,12 +69,13 @@ Cek semua repo ku di bawah profil yaa! 👇
 
 <div align="center">
 
-![Satria's GitHub stats](https://github-readme-stats.vercel.app/api?username=SatriaXD766&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A23&title_color=00FFAB&icon_color=00FFAB&text_color=FFFFFF&include_all_commits=true&count_private=true&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatriaXD766&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A23&title_color=00FFAB&text_color=FFFFFF&langs_count=8&cache_seconds=1800)
+![Satria's GitHub stats](https://github-stats-extended.vercel.app/api?username=SatriaXD766&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A23&title_color=00FFAB&icon_color=00FFAB&text_color=FFFFFF&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=SatriaXD766&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A23&title_color=00FFAB&text_color=FFFFFF&langs_count=8)
 
 <br>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SatriaXD766&theme=tokyonight&hide_border=true&background=0A0A23&ring=00FFAB&fire=00FFAB&currStreakLabel=00FFAB)
+![Streak](https://streak-stats.demolab.com/?user=SatriaXD766&theme=tokyonight&hide_border=true&background=0A0A23&ring=00FFAB&fire=00FFAB&currStreakLabel=00FFAB)
 
 <br>
 
