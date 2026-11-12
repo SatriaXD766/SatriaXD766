@@ -44,7 +44,7 @@ Aku lagi fokus belajar membangun **clean code selangkah demi selangkah** di duni
 ### 🛠️ Keahlian
 
 **Bahasa & Tools:**
-`C++` `C` `Git` `GitHub` `Cisco Packet Tracer` `Networking (LAN/WAN)`
+`C++` `Python` `C` `Git` `GitHub` `Cisco Packet Tracer` `Networking (LAN/WAN)`
 
 **Yang lagi aku pelajari:**
 - Struktur Data & Algoritma
