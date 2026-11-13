@@ -30,14 +30,14 @@
 
 Halo! Aku **Satria Bagas Sejati (552012610009)** - Mahasiswa Teknik Informatika.
 
-Aku lagi fokus belajar membangun **clean code selangkah demi selangkah** di dunia C++ (Struktur Data & Algoritma) dan juga mendalami dunia Networking lewat Cisco Packet Tracer.
+Aku lagi fokus belajar membangun **clean code selangkah demi selangkah** di dunia C++, Python (Struktur Data & Algoritma) dan juga mendalami dunia Networking lewat Cisco Packet Tracer.
 
 > Karena repository ku ada Pemogramannya dan ada Cisco nya juga, jadi aku belajar di dua dunia sekaligus. Logic & Connection! 🔥
 
 **🎯 Saat ini lagi:**
 - 📚 Semester 1 - Fokus Struktur Data & Algoritma
 - 🌐 Belajar bikin Topologi Hybrid anti RTO
-- 💻 Konsisten push code tiap hari
+- 💻 Konsisten push code 
 
 ---
 
